@@ -3,7 +3,7 @@
 
 # Single Cell analysis of Antigen Expression in the African Trypanosome
 
-[![DOI](zenodo)
+
 
 
 ![title](https://github.com/mtinti/VSG_single_cell/blob/main/vsg_single_cell.png)
