@@ -3,6 +3,7 @@
 
 # Single Cell analysis of Antigen Expression in the African Trypanosome
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10061206.svg)](https://doi.org/10.5281/zenodo.10061206)
 
 
 
