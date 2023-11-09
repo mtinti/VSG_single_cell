@@ -28,7 +28,8 @@
     VSG-2_1 & VSG-2_1 (VSG2 expression analysis)
     VSG-2_VSG-6_1 & VSG-2_VSG-6_1  (VSG2 and VSG6 expression analysis, control for doublets)
 
-    Each experiment tag corresponds to a folder ( with the Cell Ranger Software output, not provided just placeholder)
-    and Jupyter Notebook (with the analysis code).
+    Each experiment tag corresponds to a folder ( with the Cell Ranger Software outputs, not provided
+    just a placeholder) and Jupyter Notebook (with the analysis code). The notebooks with the "merge" tag
+    analyse the replicated experiments together.
 
     
