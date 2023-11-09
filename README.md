@@ -15,3 +15,9 @@
 
     Wellcome Centre for Anti-Infectives Research
     School of Life Sciences, University of Dundee
+
+## Instructions
+
+    The analysis has been performed in a Python Jupyter Notebook with the rpy2 package to call R functions. 
+    The environment for the Jupyter Notebook is saved in env.txt.
+    The R packages used are listed in sessionInfo.txt.
