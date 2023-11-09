@@ -21,3 +21,13 @@
     The analysis has been performed in a Python Jupyter Notebook with the rpy2 package to call R functions. 
     The environment for the Jupyter Notebook is saved in env.txt.
     The R packages used are listed in sessionInfo.txt.
+
+    For each experiment, we have two replicates:
+    VEX1_RNAi_1 & VEX1_RNAi_2 (RNA interference for VEX1)
+    VEX2_RNAi_1 & VEX2_RNAi_2 (RNA interference for VEX2)
+    VSG-2_1 & VSG-2_1 (VSG2 expression analysis)
+    VSG-2_VSG-6_1 & VSG-2_VSG-6_1  (VSG2 and VSG6 expression analysis, control for doublets)
+
+    Each experiment tag corresponds to a folder ( with the Cell Ranger Software output) and Jupyter Notebook (with the analysis code).
+
+    
