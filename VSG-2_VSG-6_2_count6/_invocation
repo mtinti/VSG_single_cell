@@ -1,0 +1,34 @@
+@include "rna/sc_rna_counter_cs.mro"
+
+call SC_RNA_COUNTER_CS(
+    sample_id             = "VSG-2_VSG-6_2_count6",
+    sample_def            = [
+        {
+            "fastq_id": null,
+            "fastq_mode": "ILMN_BCL2FASTQ",
+            "gem_group": null,
+            "lanes": null,
+            "library_type": "Gene Expression",
+            "read_path": "/cluster/majf_lab/mtinti/CellRanger/joana_F21FTSEUHT1298_TRYmwueR/VSG-2_VSG-6_2",
+            "sample_indices": ["any"],
+            "sample_names": ["VSG-2_VSG-6_2"],
+            "subsample_rate": null,
+            "target_set": null,
+            "target_set_name": null,
+        },
+    ],
+    sample_desc           = "",
+    reference_path        = "/cluster/majf_lab/mtinti/CellRanger/Otto_mik_annotations_cr",
+    recovered_cells       = null,
+    no_bam                = false,
+    no_secondary_analysis = false,
+    no_target_umi_filter  = false,
+    force_cells           = 5876,
+    include_introns       = false,
+    chemistry             = "auto",
+    r1_length             = null,
+    r2_length             = null,
+    trim_polya_min_score  = 20,
+    trim_tso_min_score    = 20,
+    feature_reference     = null,
+)
